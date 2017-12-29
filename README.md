@@ -12,23 +12,23 @@ Repara tu USB, de manera efectiva, ya que muchas veces por causas de virus se oc
 | Windows | 10 | Si | Trabajando   |
 
 # Instalación:
-Intalación y descarga de RepUSB
+Instalación y descarga de RepUSB
 <pre><i><n>git clone https://github.com/InstitutoCesca/RepararUSB.git
 </pre></i></n>
 
 # Uso:
-Please go to the [Youtube](https://www.youtube.com/channel/UCJ6QPe_onZr9Z4dF1oCMllA).
+Por favor, vaya a [Youtube](https://www.youtube.com/channel/UCJ6QPe_onZr9Z4dF1oCMllA).
 
 # Apoyo:
 Preguntas, errores o sugerencias para: labcesca@gmail.com
 
 # Licencia:
-Doxing is licensed. 
+RepararUSB tiene licencia. 
 See [LICENSE](https://github.com/InstitutoCesca/RepararUSB/blob/master/LICENSE) for more information.
 
 # Developer:
 
-* Victor Bancayan - [@HackingEnVivo](https://twitter.com/HackingEnVivo) - (**CEO at [Hacking Live]
+* Victor Bancayan - [@HackingEnVivo](https://twitter.com/HackingEnVivo) - (**CEO at [Hacking Live](https://hackingenvivo.blogspot.com/)**) 
 
 # Enlaces:
 ```
@@ -37,4 +37,4 @@ Twitter: https://twitter.com/ISTCESCA
 ```
 from <img src="https://i.imgur.com/ngJCbSI.png" title="Perú"> made in <img src="http://lib.openlog.it/wp-content/uploads/2012/11/BAT.png" title="Python"> with <img src="http://cdn0.bodas.com.mx/img/smileys/smiley_heart.png" title="Love"> by: <font color="red">Instituto Cesca</font>, Elígenos!!! <img src="https://lh5.googleusercontent.com/-dqFe-mKes0w/AAAAAAAAAAI/AAAAAAAAAB0/KheQZri83tY/photo.jpg" title="Cesca"> La oportunidad de un fututo mejor
 
-copyright © 2017 [CESCA] (http://www.cesca.edu.pe/)
+copyright © 2017 (**[CESCA](http://www.cesca.edu.pe/)**)
